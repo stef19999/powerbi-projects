@@ -1,5 +1,3 @@
-# powerbi-projects
-My Power BI portfolio projects
 # 📊 Power BI Project – Blinkit Retail Sales Dashboard
 
 ## 📌 Project Overview
@@ -9,7 +7,7 @@ The objective is to uncover insights into **sales trends, outlet performance, pr
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot] (https://github.com/stef19999/powerbi-projects/blob/main/blinkitdashboard.jpg)
+(https://github.com/stef19999/powerbi-projects/blob/main/blinkitdashboard.jpg)
 
 ---
 
