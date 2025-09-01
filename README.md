@@ -28,7 +28,7 @@ The objective is to uncover insights into **sales trends, outlet performance, pr
 
 ## 📂 Files in this Repository
 - `https://github.com/stef19999/powerbi-projects/blob/main/blinkit.pbix` → Power BI project file (open in Power BI Desktop)  
-- https://github.com/stef19999/powerbi-projects/blob/main/blinkitpdf.pdf → Exported report for offline viewing  
+- `https://github.com/stef19999/powerbi-projects/blob/main/blinkitpdf.pdf` → Exported report for offline viewing  
 - Contains dashboard screenshots  
 
 ---
