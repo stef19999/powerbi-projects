@@ -19,6 +19,10 @@ This project is a Power BI dashboard that provides insights into sales, revenue,
 
 The data analysis was done by querying the database using Microsoft SQL Server, which provided the required raw data for the dashboard. Power Query was used to clean and transform the data, making it ready for visualization in Power BI.
 
+## Data Set
+
+Google data
+
 ### Key Insights
 
 - **Profit Margin**: The shop maintains a 45% profit margin across its sales.
