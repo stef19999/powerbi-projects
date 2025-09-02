@@ -11,7 +11,7 @@ This project is a Power BI dashboard that provides insights into sales, revenue,
 
 ## Technologies Used
 
-- **Microsoft SQL Server**: Used for data analysis and querying.
+- **Microsoft SQL Server**: Used for data analysis and querying.(`bike.sql`)
 - **Power Query**: Used for data transformation and cleaning within Power BI.
 - **Power BI**: Used to visualize and analyze the data.
 
