@@ -72,7 +72,7 @@ The dashboard is divided into three main sections:
 ---
 
 ## 📷 Dashboard Preview  
-*(Add screenshots here – Overview, Time Analysis, Details)*  
+https://github.com/stef19999/powerbi-projects/blob/main/uber%20dashboard/uberdash1.jpg 
 
 ---
 
@@ -92,4 +92,3 @@ The dashboard is divided into three main sections:
 ---
 
 ⭐ If you found this project useful, don’t forget to **star this repository**!
-
