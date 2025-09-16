@@ -70,4 +70,4 @@ It provides insights into long-term trends, yearly comparisons, and my top playe
 
 ## 📷 Preview
 
-![Spotify Dashboard](./9
+https://github.com/stef19999/powerbi-projects/blob/main/Spotify/96c1f238-3603-4ac2-93a1-cc84386a658e.png
